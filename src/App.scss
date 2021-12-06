@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.product {
+  border: none;
+}
+
+// setting color for rating stars
+.ratingStar {
+  color: rgb(255, 166, 0);
+}
+
+// increase and decrease button for cart
+.quantityButton {
+  border: 0;
+  padding: 0;
+  width: 35px;
+  height: 35px;
+  margin: 0 5px;
+
+}
+
+
